@@ -12,7 +12,7 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 ## Assumptions:
 - The HEPA filter does what we want it to do
 - Positive pressure eliminates need for an airtight solution
-- Air path entering from top of head to exiting at chin provides enough air to safely breath
+- Air path entering from top of head to exiting at chin provides enough air to safely breathe
 - This can be used many times without changing the filter
 ## Parts
 - Hoover 3100 replacement HEPA filter
