@@ -1,7 +1,7 @@
 # Project: EasyPAPR - a DIY powered respirator
 # **Disclaimers:** 
 ### _No doctors or safety scientists were involved_
-### _HEPA filters have dangerous glass
+### _HEPA filters may glass but EnviroCare filters to not
 ### _This is a thought experiment, build at your own risk_
 ### _This may not work at all_
 ### _This could injure or suffocate you_
@@ -14,7 +14,7 @@ How to build a PAPR - Powered Air Purifying Respirator out of ordinary household
 A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping out through a hose into a helmet made out of kite fabric and a 2 liter plastic bottle. The ultimate goal is to solve each component and assembly problem in multiple ways to account for limited availability of parts and various degrees of skill.
 # Design Principles
 ## Assumptions:
-- STOP, HEPA filters can be dangerous. Need to find a safe HEPA filter without glass fibers ...
+- Some HEPA filters could be dangerous. Need to find a safe HEPA filter without glass fibers ...
 - Positive pressure eliminates need for an airtight solution
 - Air path entering from top of head to exiting at chin provides enough air to safely breathe
 - This can be used many times without changing the filter
