@@ -22,7 +22,7 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 - No tape/glue, fully disasseblable for cleaning purposes
 - Propose multiple parts / techniques for every step to ensure more people can do this
 - Durable
-- ComfortableOAPI-360
+- Comfortable
 
 ## ToDo:
 - 265nm UV LEDs shining on both inside and outside of HEPA filter material
