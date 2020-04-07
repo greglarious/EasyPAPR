@@ -35,9 +35,19 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | Drilling hole through faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_drill_clamp.jpg" width=250> |
 | Screwing clamp into place | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_clamps.jpg" width=250> |
 | Attached faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_faceplate_attached.jpg" width=250> |
-| Sewing top of helmet | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_sewing_top.jpg" width=250> |
+
+
+## Attaching blower to filter with gasket
+| Step | Image |
+|------|-------|
 | Gasket between filter and blower | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_attached_to_gasket.jpg" width=250> |
+
+## Helmet Construction
+| Step  | Image |
+|-------|-------|
+| Sewing top of helmet | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_sewing_top.jpg" width=250> |
 | Air exit holes (melted) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_air_exit.jpg" width=250> |
-| Stay tuned for more instructions, pictures, videos etc |  |
+
+## Stay tuned for more instructions, pictures, videos etc |  |
 # Testing
-- Stay tuned for testing parts / technique / results with a PM2.5 dust sensor
+## Stay tuned for testing parts / technique / results with a PM2.5 dust sensor
