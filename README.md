@@ -15,22 +15,26 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 - Air path entering from top of head to exiting at chin provides enough air to safely breathe
 - This can be used many times without changing the filter
 ## Parts
-- Hoover 3100 replacement HEPA filter <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_opening.jpg" width=100>
-- 12v squirrel cage blower fan <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_hose.jpg" width=100>
-- 12v battery <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=100>
-- inline 3A automotive fuse and holder
-- Dishwasher drain hose
-- Airtight nylon kite fabric <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=100>
-- 2 liter beverage bottle
-- Aluminum strips (Aluminum Roll Valley Flashing) <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/clamp.jpg" width=100>
-- machine screws/nuts
-- needle and thread
-- elastic
+| Part | Image |
+|------|-------|
+| Hoover 3100 replacement HEPA filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_opening.jpg" width=100> \
+| 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_hose.jpg" width=100> |
+| 12v battery | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=100> |
+| inline 3A automotive fuse and holder | |
+| Dishwasher drain hose | |
+| Airtight nylon kite fabric | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=100> |
+| 2 liter beverage bottle | |
+| Aluminum strips (Aluminum Roll Valley Flashing) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/clamp.jpg" width=100> |
+| machine screws/nuts | |
+| needle and thread | |
+| elastic | |
 # Assembly
 ## Clamping faceplate to fabric
-- Drilling hole through faceplate <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_drill_clamp.jpg" width=100>
-- Screwing clamp into place <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_clamps.jpg" width=100>
-- Attached faceplate: <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_faceplate_attached.jpg" width=100>
-- Stay tuned for more instructions, pictures, videos etc
+| Step | Image |
+|------|-------|
+| Drilling hole through faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_drill_clamp.jpg" width=200> |
+| Screwing clamp into place | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_clamps.jpg" width=200> |
+| Attached faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_faceplate_attached.jpg" width=200> |
+| Stay tuned for more instructions, pictures, videos etc | |
 # Testing
 - Stay tuned for testing parts / technique / results with a PM2.5 dust sensor
