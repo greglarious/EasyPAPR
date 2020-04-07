@@ -17,6 +17,13 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 - Positive pressure eliminates need for an airtight solution
 - Air path entering from top of head to exiting at chin provides enough air to safely breathe
 - This can be used many times without changing the filter
+
+## Goals:
+- No tape/glue, fully disasseblable for cleaning purposes
+- Propose multiple parts / techniques for every step to ensure more people can do this
+- Durable
+- ComfortableOAPI-360
+
 ## ToDo:
 - 265nm UV LEDs shining on both inside and outside of HEPA filter material
 - Case with belt to enclose both battery and filter. Allow air in but keep UV light from escaping
@@ -42,8 +49,10 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | machine screws/nuts |  |
 | needle and thread |  |
 | elastic |  |
-# Assembly
+
+# Assembly 
 ## Clamping faceplate to fabric
+Faceplate is a piece of clear plastic from a beverage bottle. Step here is to clamp it onto the fabric with some bent pieces of aluminum and machine screw/nut.
 | Step | Image |
 |------|-------|
 | Drilling hole through faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_drill_clamp.jpg" width=250> |
@@ -51,6 +60,7 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | Attached faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_faceplate_attached.jpg" width=250> |
 
 ## Attaching blower to filter with gasket
+Blower has a circular air-input and the filter has an oval exit. Need adapter gasket to fit the two together in an airtight way.
 | Step | Image |
 |------|-------|
 | Gasket on filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_attached_to_gasket.jpg" width=250> |
@@ -58,10 +68,20 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | Gasket between filter and blower | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_hose.jpg" width=250> |
 
 ## Helmet Construction
+Lightweight helmet to offer protection. No need to be airtight due to positive pressure design.
 | Step  | Image |
 |-------|-------|
 | Sewing top of helmet | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_sewing_top.jpg" width=250> |
 | Air exit holes (melted) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_air_exit.jpg" width=250> |
+
+## Headstrap for stabilization and directing airflow 
+Headstrap stabilizes helmet position, attaches to air hose at back, and directs airflow to exit at the top sides of the head pointing down.
+| Step | Image |
+|------|-------|
+| Basic comfortable headstrap design |  |
+| Attachment for air hose at back |  |
+| Split airflow 2 or 3 ways |  |
+| Direction tubes leading to top/front sides |  |
 
 # Testing Methodology
 ## Measure particle reduction effectiveness with with a PM2.5 dust sensor
