@@ -43,6 +43,7 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 |------|-------|
 | Gasket on filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_attached_to_gasket.jpg" width=250> |
 | Gasket on blower | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_gasket.jpg" width=250> |
+| Gasket between filter and blower | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_hose.jpg" width=250> |
 
 ## Helmet Construction
 | Step  | Image |
