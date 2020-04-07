@@ -26,9 +26,9 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | Airtight nylon kite fabric | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=200> |
 | 2 liter beverage bottle | |
 | Aluminum strips (Aluminum Roll Valley Flashing) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/clamp.jpg" width=200> |
-| machine screws/nuts | |
-| nhttps://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_sewing_top.jpgeedle and thread | |
-| elastic | |
+| machine screws/nuts |  |
+| needle and thread |  |
+| elastic |  |
 # Assembly
 ## Clamping faceplate to fabric
 | Step | Image |
