@@ -1,7 +1,7 @@
 # Project: EasyPAPR - a DIY powered respirator
 # **Disclaimers:** 
 ### _No doctors or safety scientists were involved_
-### _HEPA filters may glass but EnviroCare filters to not
+### _HEPA filters may glass but EnviroCare filters to not_
 ### _This is a thought experiment, build at your own risk_
 ### _This may not work at all_
 ### _This could injure or suffocate you_
