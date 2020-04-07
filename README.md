@@ -40,7 +40,7 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower.jpg" width=200> |
 | Foam Gasket | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/gasket.jpg" width=200> |
 | 12v battery | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=200> |
-| Faceplate cut from clear beverage bottle | |
+| Faceplate cut from clear plastic. Source is 2 liter beverage bottle or large pretzel container | |
 | inline 3A automotive fuse and holder | |
 | Dishwasher drain hose | |
 | Airtight nylon kite fabric | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=200> |
