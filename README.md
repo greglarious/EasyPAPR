@@ -1,7 +1,7 @@
 # Project: EasyPAPR - a DIY powered respirator
 # **Disclaimers:** 
 ### _No doctors or safety scientists were involved_
-### _HEPA filters may glass but EnviroCare filters to not_
+### _Some HEPA filters may contain glass but EnviroCare filters to not_
 ### _This is a thought experiment, build at your own risk_
 ### _This may not work at all_
 ### _This could injure or suffocate you_
@@ -14,7 +14,7 @@ How to build a PAPR - Powered Air Purifying Respirator out of ordinary household
 A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping out through a hose into a helmet made out of kite fabric and a 2 liter plastic bottle. The ultimate goal is to solve each component and assembly problem in multiple ways to account for limited availability of parts and various degrees of skill.
 # Design Principles
 ## Assumptions:
-- Some HEPA filters could be dangerous. Need to find a safe HEPA filter without glass fibers ...
+- Assuming this HEPA filter is safe to breath through (no glass fibers) and filters out "the bad stuff"
 - Positive pressure eliminates need for an airtight solution
 - Air path entering from top of head to exiting at chin provides enough air to safely breathe
 - This can be used many times without changing the filter
@@ -37,7 +37,7 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 # Parts List
 | Part | Image |
 |------|-------|
-| Filter . looking for something safe | |
+| EnviroCare Hoover 3100 replacement HEPA filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_opening.jpg" width=200> |
 | 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower.jpg" width=200> |
 | Foam Gasket | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/gasket.jpg" width=200> |
 | 12v battery | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=200> |
