@@ -1,10 +1,10 @@
 # Project: EasyPAPR - a DIY powered respirator
 # **Disclaimers:** 
-## _No doctors or safety scientists were involved_
-## _This is a thought experiment, build at your own risk_
-## _This may not work at all_
-## _This could injure or suffocate you_
-## _Small parts / choking hazard_
+### _No doctors or safety scientists were involved_
+### _This is a thought experiment, build at your own risk_
+### _This may not work at all_
+### _This could injure or suffocate you_
+### _Small parts / choking hazard_
 # Overview
 How to build a PAPR - Powered Air Purifying Respirator out of ordinary household items
 <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=350>
@@ -84,7 +84,7 @@ Headstrap stabilizes helmet position, attaches to air hose at back, and directs 
 | Direction tubes leading to top/front sides |  |
 
 # Testing Methodology
-## Measure particle reduction effectiveness with with a PM2.5 dust sensor
-## Use various harmless substances with a human detectable odor that fit a particle fitler test
-## Battery life / burn in test
-## Durability test
+- Measure particle reduction effectiveness with with a PM2.5 dust sensor
+- Use various harmless substances with a human detectable odor that fit a particle fitler test
+- Battery life / burn in test
+- Durability test
