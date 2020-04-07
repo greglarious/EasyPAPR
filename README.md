@@ -18,7 +18,8 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | Part | Image |
 |------|-------|
 | Hoover 3100 replacement HEPA filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_opening.jpg" width=200> \
-| 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_hose.jpg" width=200> |
+| 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower.jpg" width=200> |
+| Foam Gasket | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/gasket.jpg" width=200> |
 | 12v battery | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=200> |
 | inline 3A automotive fuse and holder | |
 | Dishwasher drain hose | |
@@ -40,7 +41,8 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 ## Attaching blower to filter with gasket
 | Step | Image |
 |------|-------|
-| Gasket between filter and blower | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_attached_to_gasket.jpg" width=250> |
+| Gasket on filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_attached_to_gasket.jpg" width=250> |
+| Gasket on blower | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_gasket.jpg" width=250> |
 
 ## Helmet Construction
 | Step  | Image |
