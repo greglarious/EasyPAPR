@@ -14,7 +14,16 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 - Positive pressure eliminates need for an airtight solution
 - Air path entering from top of head to exiting at chin provides enough air to safely breathe
 - This can be used many times without changing the filter
-## Parts
+## ToDo:
+- 265nm UV LEDs shining on both inside and outside of HEPA filter material
+- Case with belt to enclose both battery and filter. Allow air in but keep UV light from escaping
+- Speed controller for motor
+- Reshape hood to leave ears exposed
+- Nose scratcher?
+- Drinking tube?
+- Red Propeller on top and small vent to make it spin!
+
+# Parts List
 | Part | Image |
 |------|-------|
 | Hoover 3100 replacement HEPA filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_opening.jpg" width=200> \
@@ -53,4 +62,5 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 
 ## Stay tuned for more instructions, pictures, videos etc |  |
 # Testing
-## Stay tuned for testing parts / technique / results with a PM2.5 dust sensor
+## Measure particle reduction effectiveness with with a PM2.5 dust sensor
+## Battery life / burn in test
