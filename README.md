@@ -4,8 +4,8 @@
 ## _This could injure or suffocate you_
 # Overview
 How to build a PAPR - Powered Air Purifying Respirator out of ordinary household items
-<img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=300>
-<img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/full_assembly.jpg" width=300>
+<img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=350>
+<img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/full_assembly.jpg" width=350>
 # Description
 A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping out through a hose into a helmet made out of kite fabric and a 2 liter plastic bottle. The ultimate goal is to solve each component and assembly problem in multiple ways to account for limited availability of parts and various degrees of skill.
 # Design Principles
@@ -17,14 +17,14 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 ## Parts
 | Part | Image |
 |------|-------|
-| Hoover 3100 replacement HEPA filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_opening.jpg" width=100> \
-| 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_hose.jpg" width=100> |
-| 12v battery | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=100> |
+| Hoover 3100 replacement HEPA filter | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/filter_opening.jpg" width=200> \
+| 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower_attached_to_hose.jpg" width=200> |
+| 12v battery | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=200> |
 | inline 3A automotive fuse and holder | |
 | Dishwasher drain hose | |
-| Airtight nylon kite fabric | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=100> |
+| Airtight nylon kite fabric | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=200> |
 | 2 liter beverage bottle | |
-| Aluminum strips (Aluminum Roll Valley Flashing) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/clamp.jpg" width=100> |
+| Aluminum strips (Aluminum Roll Valley Flashing) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/clamp.jpg" width=200> |
 | machine screws/nuts | |
 | needle and thread | |
 | elastic | |
@@ -32,9 +32,9 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 ## Clamping faceplate to fabric
 | Step | Image |
 |------|-------|
-| Drilling hole through faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_drill_clamp.jpg" width=200> |
-| Screwing clamp into place | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_clamps.jpg" width=200> |
-| Attached faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_faceplate_attached.jpg" width=200> |
+| Drilling hole through faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_drill_clamp.jpg" width=250> |
+| Screwing clamp into place | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_clamps.jpg" width=250> |
+| Attached faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_faceplate_attached.jpg" width=250> |
 | Stay tuned for more instructions, pictures, videos etc | |
 # Testing
 - Stay tuned for testing parts / technique / results with a PM2.5 dust sensor
