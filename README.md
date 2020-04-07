@@ -1,7 +1,10 @@
-# **Disclaimer:** 
+# Project: EasyPAPR - a DIY powered respirator
+# **Disclaimers:** 
+## _No doctors or safety scientists were involved_
 ## _This is a thought experiment, build at your own risk_
 ## _This may not work at all_
 ## _This could injure or suffocate you_
+## _Small parts / choking hazard_
 # Overview
 How to build a PAPR - Powered Air Purifying Respirator out of ordinary household items
 <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=350>
@@ -30,6 +33,7 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | 12v squirrel cage blower fan | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/blower.jpg" width=200> |
 | Foam Gasket | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/gasket.jpg" width=200> |
 | 12v battery | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/battery.jpg" width=200> |
+| Faceplate cut from clear beverage bottle | |
 | inline 3A automotive fuse and holder | |
 | Dishwasher drain hose | |
 | Airtight nylon kite fabric | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=200> |
@@ -46,7 +50,6 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | Screwing clamp into place | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_clamps.jpg" width=250> |
 | Attached faceplate | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_faceplate_attached.jpg" width=250> |
 
-
 ## Attaching blower to filter with gasket
 | Step | Image |
 |------|-------|
@@ -60,7 +63,8 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | Sewing top of helmet | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_sewing_top.jpg" width=250> |
 | Air exit holes (melted) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_air_exit.jpg" width=250> |
 
-## Stay tuned for more instructions, pictures, videos etc |  |
-# Testing
+# Testing Methodology
 ## Measure particle reduction effectiveness with with a PM2.5 dust sensor
+## Use various harmless substances with a human detectable odor that fit a particle fitler test
 ## Battery life / burn in test
+## Durability test
