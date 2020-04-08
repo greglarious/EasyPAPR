@@ -45,11 +45,11 @@ A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping 
 | inline 3A automotive fuse and holder | |
 | Dishwasher drain hose | |
 | Airtight nylon kite fabric | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_pattern.jpg" width=200> |
-| 2 liter beverage bottle | |
+| clear 2 liter beverage bottle or pretzel container | |
 | Aluminum strips (Aluminum Roll Valley Flashing) | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/clamp.jpg" width=200> |
-| machine screws/nuts |  |
+| 14 - #6-32 1/4 inch long machine screws with acorn nuts |  |
 | needle and thread |  |
-| elastic |  |
+| elastic (cut from ace bandage, inside bungee cord, old waistband, rubber bands |  |
 
 # Assembly 
 ## Clamping faceplate to fabric
