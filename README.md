@@ -10,6 +10,10 @@
 How to build a PAPR - Powered Air Purifying Respirator out of ordinary household items
 <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=350>
 <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/full_assembly.jpg" width=350>
+
+
+Demonstration Video:[![Demonstration Video](http://i3.ytimg.com/vi/X4n29OlbJjI/hqdefault.jpg)](https://www.youtube.com/watch?v=X4n29OlbJjI)
+
 # Description
 A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping out through a hose into a helmet made out of kite fabric and a 2 liter plastic bottle. The ultimate goal is to solve each component and assembly problem in multiple ways to account for limited availability of parts and various degrees of skill.
 # Design Principles
