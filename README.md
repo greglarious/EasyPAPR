@@ -10,7 +10,6 @@
 # Overview
 This project is exploring how to build a PAPR - Powered Air Purifying Respirator out of ordinary household items.
 
-
 |     |  |  |
 |---------|-------|-----| 
 | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=350> | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/full_assembly.jpg" width=350> | Video: [![Demonstration Video](http://i3.ytimg.com/vi/X4n29OlbJjI/hqdefault.jpg)](https://www.youtube.com/watch?v=X4n29OlbJjI) |
@@ -20,6 +19,12 @@ A 12v blower pulls air in through a 0.1 micron HEPA filter disigned for a vacuum
 
 # Background
 The Covid-19 pandemic has spurred a great deal of creativity channeled into many projects. This project is aimed at being helpful in the intermediate to long-term timeframe. In between the immediate urgent need for homemade cloth masks and the eventual wave of professional medical products being available, I believe there is a need for a solution that is simple to build, effective, and made out of ordinary materials. The agenda at this time is to iterate on refining and measuring the design, not to "build N number of masks and rush them to X location for immediate use".
+
+# Call for help
+As this project progresses and multiple prototypes are built, the problem transitions from raw engineering to objective measurement and refinement. What I really need right now is good scientific advice in these areas:
+- How can the effectiveness of this design be safely tested? (see Testing Methodology below)
+- What other safety risks am I failing to consider?
+- How can this design be made more simple using less materials without losing effectiveness?
 
 # Design
 ## Questions and Assumptions:
@@ -104,7 +109,17 @@ Headstrap stabilizes helmet position, attaches to air hose at back, and directs 
 
 # Testing Methodology
 - Measure / monitor particle reduction effectiveness with with a PMS7003 high precision laser dust sensor
+  - The PMS7003 only goes down to 0.3 microns, is that good enough?
+  - The raw data from the PMS7003 seems to fluctuate a lot.  What math should I be doing to summarize?
+  - What is a realistic goal for reduction with the filter that will demostrate some protection?
 - Measure / monitor CO2 buildup; using an SGP30 Gas Sensor
+  - What levels of CO2 are dangerous?
+  - Is testing the design ok or should there be an audible alarm for high levels?
 - Use various harmless substances with a human detectable odor that fit a particle fitler test
+  - What harmless substances with a smell exist and what particle sizes do they represent?
 - Battery life / burn in test
-- Durability test
+  - run on the workbench with a timer
+- Durability testing
+  - do various movement exercises while wearing and see what breaks first
+  - ok to wear while walking the dog?
+  - probably not afe enough to wear it to the grocery store yet as that would risk actual infection?
