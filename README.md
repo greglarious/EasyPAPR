@@ -7,30 +7,43 @@
 ### _This could injure or suffocate you_
 ### _Small parts / choking hazard_
 # Overview
-How to build a PAPR - Powered Air Purifying Respirator out of ordinary household items
+This project is exploring how to build a PAPR - Powered Air Purifying Respirator out of ordinary household items.
+
 <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=350>
 <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/full_assembly.jpg" width=350>
 
-
 Demonstration Video:[![Demonstration Video](http://i3.ytimg.com/vi/X4n29OlbJjI/hqdefault.jpg)](https://www.youtube.com/watch?v=X4n29OlbJjI)
 
-# Description
-A 12v blower pulling air in through a vacuum 0.1 micron HEPA filter and pumping out through a hose into a helmet made out of kite fabric and a 2 liter plastic bottle. The ultimate goal is to solve each component and assembly problem in multiple ways to account for limited availability of parts and various degrees of skill.
-# Design Principles
-## Assumptions:
-- Assuming this HEPA filter is safe to breath through (no glass fibers) and filters out "the bad stuff"
-- Positive pressure eliminates need for an airtight solution
-- Air path entering from top of head to exiting at chin provides enough air to safely breathe
-- This can be used many times without changing the filter
+# Description 
+A 12v blower pulls air in through a 0.1 micron HEPA filter disigned for a vacuum cleaner. The air is pumped out through a hose into a helmet. Each component and assembly step should have multiple alternative solutions to account for limited availability of parts, tools, and assembly skill.
+
+# Background
+The Covid-19 pandemic has spurred a great deal of creativity channeled into many projects. This project is aimed at being helpful in the intermediate to long-term timeframe. In between the immediate urgent need for homemade cloth masks and the eventual wave of professional medical products being available, I believe there is a need for a solution that is simple to build, effective, and made out of ordinary materials. The agenda at this time is to iterate on refining and measuring the design, not to "build N number of masks and rush them to X location for immediate use".
+
+# Design
+## Questions and Assumptions:
+- Is this HEPA filter safe to breath through (no glass fibers) ?
+- Is this HEPA filter able to remove dangerous particles such as virus and bacteria?
+- Does positive pressure eliminate the need for an airtight solution?
+- Is this safe to use regarding delivery of enough air and CO2 buildup? 
+- Can this can be used many times without changing the filter?
+- Can the parts other than the filter be effectively cleaned?
 
 ## Goals:
-- No tape/glue, fully disasseblable for cleaning purposes
-- Propose multiple parts / techniques for every step to ensure more people can do this
+- Use measuring devices to objectively demonstrate effectiveness
+- No tape/glue: fully disasseblable for cleaning purposes
+- Propose multiple commoDesignn materials for each component
+- Propose multiple assembly techniques to using tools present in ordinary homes
 - Durable
 - Comfortable
 
+# Current status
+## Already built
+- Testing rig without a helmet. Filter connected to pump and hose going into a measurement chamber
+- Several prototypes for walking around and testing
+
 ## ToDo:
-- 265nm UV LEDs shining on both inside and outside of HEPA filter material
+- Use 265nm UV LEDs shining on both inside and outside of HEPA filter material
 - Case with belt to enclose both battery and filter. Allow air in but keep UV light from escaping
 - Speed controller for motor
 - Reshape hood to leave ears exposed
