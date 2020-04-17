@@ -1,7 +1,8 @@
 # Project: EasyPAPR - a DIY powered respirator
 # **Disclaimers:** 
 ### _No doctors or safety scientists were involved_
-### _Some HEPA filters may contain glass but EnviroCare filters to not_
+### _Some HEPA filters may contain glass and injure your lungs, be careful!_
+### _CO2 buildup from improper design can be fatal_
 ### _This is a thought experiment, build at your own risk_
 ### _This may not work at all_
 ### _This could injure or suffocate you_
