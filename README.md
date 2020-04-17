@@ -4,7 +4,7 @@
 - [Disclaimers](#disclaimers)
 - [Overview](#overview)
 - [Background](#background)
-- [Call For Help}(#call-for-help)
+- [Call For Help](#call-for-help)
 - [Design](#design)
 - [Current Status](#current-status)
 - [Parts List](#parts-list)
