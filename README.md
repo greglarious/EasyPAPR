@@ -89,7 +89,8 @@ Headstrap stabilizes helmet position, attaches to air hose at back, and directs 
 | Direction tubes leading to top/front sides |  |
 
 # Testing Methodology
-- Measure particle reduction effectiveness with with a PM2.5 dust sensor
+- Measure / monitor particle reduction effectiveness with with a PMS7003 high precision laser dust sensor
+- Measure / monitor CO2 buildup; using an SGP30 Gas Sensor
 - Use various harmless substances with a human detectable odor that fit a particle fitler test
 - Battery life / burn in test
 - Durability test
