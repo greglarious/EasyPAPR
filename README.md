@@ -1,4 +1,16 @@
 # Project: EasyPAPR - a DIY powered respirator
+
+# Table of Contents
+- [Disclaimers](#disclaimers)
+- [Overview](#overview)
+- [Background](#background)
+- [Call For Help}(#call-for-help)
+- [Design](#design)
+- [Current Status](#current-status)
+- [Parts List](#parts-list)
+- [Assembly](#assembly)
+- [Testing Methodology](#testing-methodology)
+
 # **Disclaimers:** 
 ### _No doctors or safety scientists were involved_
 ### _Some HEPA filters may contain glass and injure your lungs, be careful!_
@@ -14,7 +26,6 @@ This project is exploring how to build a PAPR - Powered Air Purifying Respirator
 |---------|-------|-----| 
 | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/helmet_completed.jpg" width=350> | <img src="https://github.com/greglarious/EasyPAPR/blob/master/pictures/full_assembly.jpg" width=350> | Video: [![Demonstration Video](http://i3.ytimg.com/vi/X4n29OlbJjI/hqdefault.jpg)](https://www.youtube.com/watch?v=X4n29OlbJjI) |
 
-# Description 
 A 12v blower pulls air in through a 0.1 micron HEPA filter disigned for a vacuum cleaner. The air is pumped out through a hose into a helmet. Each component and assembly step should have multiple alternative solutions to account for limited availability of parts, tools, and assembly skill.
 
 # Background
